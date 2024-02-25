@@ -1,4 +1,4 @@
-#include <iostraem>
+ï»¿#include <iostraem>
 
 int main() {
 
@@ -6,7 +6,7 @@ int main() {
 
 	int a = 0;
 
-	printf("a=%d,ÄãºÃ", a);
+	printf("a=%d,ä½ å¥½ä½ å¥½", a);
 
 
 	return 0;
