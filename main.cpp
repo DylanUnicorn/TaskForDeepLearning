@@ -6,6 +6,9 @@ int main() {
 
 	int a = 0;
 
+	printf("a=%d,ÄãºÃ", a);
+
+
 	return 0;
 
 }
